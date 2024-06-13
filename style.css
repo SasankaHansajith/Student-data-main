@@ -1,0 +1,58 @@
+
+
+/* Body Styling */
+body {
+    background-image: url(img/students-knowing-right-answer.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff; /* Text color */
+}
+
+/* Navigation Bar Styling */
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8); /* Transparent black */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.navbar-nav .nav-link {
+    color: #fff; /* Link color */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ccc; /* Hover color */
+}
+
+/* Jumbotron Styling */
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.527); /* Semi-transparent black */
+    margin-top: 100px;
+    padding: 100px;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.jumbotron p {
+    font-size: 20px;
+}
+
+/* Button Styling */
+.link {
+    color: #fff; /* Button text color */
+    background-color: #007bff; /* Button background color */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.link:hover {
+    background-color: #004488; /* Button hover background color */
+}
+
